@@ -2,8 +2,6 @@
 
 Aplikasi ini merupakan platform berbasis Streamlit untuk informasi, visualisasi data, dan prediksi kebutuhan program kesehatan gizi SPPI (Sarjana Penggerak Pembangunan Indonesia) 2025.
 
-## SPPI 2025 - Platform Informasi dan Visualisasi Program Kesehatan Gizi
-
 ![SPPI Logo](1.png)
 
 ## Tentang Aplikasi
