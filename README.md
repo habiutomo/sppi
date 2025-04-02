@@ -86,4 +86,4 @@ Untuk informasi lebih lanjut tentang aplikasi ini atau program SPPI 2025, silaka
 
 ## Lisensi
 
-© 2023 Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi Republik Indonesia
+habizinnia@gmail.com
